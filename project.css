@@ -11,7 +11,8 @@ body{
     border-radius: 15px;
     width: 1600px;
     height: 900px;
-    top: calc(15vh - 100px); left: calc(23vw - 200px);
+    top: 60px; 
+    left: 280px;
 
 }
 
