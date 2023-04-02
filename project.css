@@ -1,18 +1,19 @@
 body{
     padding: 0 5% 0 7%;
     background-color: gray;
-    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .modal_box{
-    position: absolute;
     background-color: white;
     border: 3px solid black;
     border-radius: 15px;
     width: 1600px;
     height: 900px;
-    top: 60px; 
-    left: 280px;
+   
+  
 
 }
 
